@@ -1,5 +1,5 @@
-using Microsoft.EntityFrameworkCore;
-using JournalBackend.Models; // Adjust the namespace based on your project structure
+using JournalBackend.Models;
+using Microsoft.EntityFrameworkCore;// Adjust the namespace based on your project structure
 
 namespace JournalBackend.Data
 {
