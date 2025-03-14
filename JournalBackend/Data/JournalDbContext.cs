@@ -1,5 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using JournalBackend.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace JournalBackend.Data
 {
