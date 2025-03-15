@@ -1,8 +1,0 @@
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.csproj.AssemblyReference.cache
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.AssemblyInfoInputs.cache
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.AssemblyInfo.cs
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.csproj.CoreCompileInputs.cache
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Joel Ndiba Mwaura\GitHub\cse210Design\CSE210Journal-Design\JournalApp\JournalBackend\obj\Debug\net8.0\JournalBackend.sourcelink.json
