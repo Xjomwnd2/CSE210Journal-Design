@@ -63,16 +63,6 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 using JournalBackend.Data;
 using Microsoft.EntityFrameworkCore;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container
-builder.Services.AddDbContext<JournalDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-builder.Services.AddOpenApi();
-
-var app = builder.Build();
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
